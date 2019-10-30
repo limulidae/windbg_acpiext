@@ -1,0 +1,7 @@
+LIBRARY acpiext.dll
+
+EXPORTS
+    WinDbgExtensionDllInit
+    ExtensionApiVersion
+
+    help
